@@ -8,5 +8,9 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "preact": "^10.2.1",
+    "preact-dom": "^1.0.1"
+  }
 }
